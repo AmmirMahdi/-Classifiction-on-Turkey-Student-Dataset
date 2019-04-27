@@ -1,1 +1,1 @@
-# -Classifiction-on-Turkey-Student-Dataset
+# Classifiction-on-Turkey-Student-Dataset
